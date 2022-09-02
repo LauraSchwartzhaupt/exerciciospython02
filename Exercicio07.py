@@ -1,3 +1,5 @@
+#Faça um algoritmo que leia cinco valores inteiros, calcule a média aritmética 
+#dos números lidos e escreva o resultado
 a = int(input('Digite um número:'))
 b = int(input('Digite outro número:'))
 c = int(input('Digite mais um número:'))
